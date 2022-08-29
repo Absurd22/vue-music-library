@@ -1,0 +1,10 @@
+/* color palette from <https://github.com/vuejs/theme> */
+
+body {
+  min-height: 100vh;
+  background: var(--color-background);
+  transition: color 0.5s, background-color 0.5s;
+  line-height: 1.6;
+  background: url('https://zh-cn.learn.canva.com/wp-content/uploads/sites/17/2019/08/Snipaste_2019-08-19_21-05-48-1.png');
+  background-size: 100% 100%;
+}
